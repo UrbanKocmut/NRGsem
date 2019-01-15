@@ -1,3 +1,3 @@
 # NRGsem
 
-V tem repozitoriju so vse glavne datoteke. Celoten projekt je na voljo na naslednji povezavi.
+V ta repozitorij je potrebno še kopirati "StarterContent" pred uporabo.
